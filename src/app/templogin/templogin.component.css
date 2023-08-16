@@ -1,0 +1,35 @@
+.main-div {
+padding: 0px;
+background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(244,45,253,1) 100%);
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScTswTdtcAEroZtzRuclbu-vUf05GgeKeuVl4U2RMgJOaNIp7oE3BaW4bGovX5GaUmNoE&usqp=CAU"); 
+background-position: right bottom, left top;
+background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+.mat{
+background-color: aqua;
+}
+
+
+
+.login{
+    padding: 20px;
+    
+}
+button{
+    width:30px;
+}
+    
+    .log{
+        width:80px;
+    
+    }
+    .save-button{
+        background-color: aqua;
+    }
+     
+
+
+
